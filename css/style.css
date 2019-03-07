@@ -1,0 +1,8 @@
+.justwidget--asst-bubble {
+    background-color: black !important;
+    background-image: none !important;
+}
+
+.justwidget--bubble-arrow:before {
+    border-bottom-color: black !important;
+}
