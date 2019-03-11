@@ -1,8 +1,18 @@
-.justwidget--asst-bubble {
-    background-color: black !important;
-    background-image: none !important;
+.justwidget--asst-pic {
+    width: 100px !important;
+    height: 100px !important;
 }
 
-.justwidget--bubble-arrow:before {
-    border-bottom-color: black !important;
+.justwidget--asst-pic-waves {
+    bottom: -105px !important;
+    border-width: 55px !important;
 }
+
+.justwidget.sided .justwidget--inner {
+    width: 500px !important;
+}
+
+.justwidget.sided {
+    max-height: 479.5px !important;
+}
+
