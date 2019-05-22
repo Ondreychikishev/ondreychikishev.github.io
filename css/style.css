@@ -16,6 +16,10 @@
     max-height: 479.5px !important;
 }
 
+.justwidget--asst-pic svg path {
+    fill: pink !important;
+}
+
 .justwidget--message_asst .justwidget--image {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAEFCu8CAAAAAXNSR…Kzs7MPBaQPFJJ3RBoRrYU9rUHKjNZ/ytgvejO9FO3+RIv5X7Vtp94iw6RcAAAAAElFTkSuQmCC) !important;
+    background-image: url(data:image/png;base64, aHR0cHM6Ly8zZG5ld3MucnUvYXNzZXRzL2V4dGVybmFsL2lsbHVzdHJhdGlvbnMvMjAxOS8wMS8zMS85ODIwODYvc20uYnJvd3Nlci03NzMyMTZfOTYwXzcyMC43NTAuanBn) !important;
 }
