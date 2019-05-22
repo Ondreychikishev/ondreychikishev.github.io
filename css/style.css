@@ -16,10 +16,6 @@
     max-height: 479.5px !important;
 }
 
-.justwidget--asst-pic {
-    background-image: url('https://bipbap.ru/wp-content/uploads/2017/08/16.jpg') !important;
-}
-
-.justwidget--asst-pic svg {
-    display: none;
+.justwidget--message_asst .justwidget--image {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAEFCu8CAAAAAXNSR…Kzs7MPBaQPFJJ3RBoRrYU9rUHKjNZ/ytgvejO9FO3+RIv5X7Vtp94iw6RcAAAAAElFTkSuQmCC) !important;
 }
