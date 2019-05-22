@@ -20,6 +20,10 @@
     fill: pink !important;
 }
 
-.justwidget--message_asst .justwidget--image {
-    background-image: url(data:image/png;base64, aHR0cHM6Ly8zZG5ld3MucnUvYXNzZXRzL2V4dGVybmFsL2lsbHVzdHJhdGlvbnMvMjAxOS8wMS8zMS85ODIwODYvc20uYnJvd3Nlci03NzMyMTZfOTYwXzcyMC43NTAuanBn) !important;
+.justwidget--asst-pic {
+    background-image: url('https://3dnews.ru/assets/external/illustrations/2019/01/31/982086/sm.browser-773216_960_720.750.jpg') !important;
+}
+
+.justwidget--asst-pic svg {
+    display: none;
 }
