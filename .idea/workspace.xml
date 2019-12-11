@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4007f71d-a30a-44f6-9491-e0aa71af832b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/demo/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/demo/demo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="534" column="30" lean-forward="true" selection-start-line="534" selection-start-column="30" selection-end-line="534" selection-end-column="30" />
+            <state relative-caret-position="147">
+              <caret line="96" column="37" lean-forward="true" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -64,7 +63,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="809" />
@@ -93,13 +92,6 @@
               <item name="getbot.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="getbot.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="getbot.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="blk-design-system.css" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="getbot.io" type="b2602c69:ProjectViewProjectNode" />
@@ -161,7 +153,8 @@
       <workItem from="1575529024861" duration="3950000" />
       <workItem from="1575545594819" duration="421000" />
       <workItem from="1575641812673" duration="1484000" />
-      <workItem from="1576062056976" duration="45000" />
+      <workItem from="1576062056976" duration="234000" />
+      <workItem from="1576063044174" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="version webinar">
       <created>1552298454291</created>
@@ -174,7 +167,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11889000" />
+    <option name="totallyTimeSpent" value="12259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="0" />
@@ -385,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="534" column="30" lean-forward="true" selection-start-line="534" selection-start-column="30" selection-end-line="534" selection-end-column="30" />
+        <state relative-caret-position="147">
+          <caret line="96" column="37" lean-forward="true" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
         </state>
       </provider>
     </entry>
