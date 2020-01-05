@@ -49,6 +49,7 @@ footer p {
     padding: 30px;
 }
 
+
 .card-pill.reverted {
     color: #a8a8a8;
 }
@@ -57,6 +58,7 @@ footer p {
     height: 40px;
     color: #fff;
 }
+
 
 .card.default, .card.blue {
     background-color: #51bcda;
